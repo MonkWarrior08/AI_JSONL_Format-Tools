@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to the GPT-4 Prompt Template Tool! This is a GUI application designed using PyQt5 that helps you construct structured JSON format prompts with alternating roles for use in GPT-4 AI interactions. 
+This is a GUI application designed using PyQt5 that helps you construct structured JSON format prompts with alternating roles for use in GPT-4 AI interactions. 
 
 The tool enables users to quickly format prompts into a JSON structure that can be used for interactions with language models like GPT-4, allowing for a well-defined conversation flow between the system, user, and assistant.
 
