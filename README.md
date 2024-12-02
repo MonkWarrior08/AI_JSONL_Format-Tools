@@ -15,14 +15,12 @@ The tool enables users to quickly format prompts into a JSON structure that can 
 - PyQt5
 
 ## Installation
-
-1. Install Python 3.x from [Python's official website](https://www.python.org/).
-2. Install PyQt5 using pip:
+1. Install PyQt5 using pip:
 
    ```bash
    pip install PyQt5
    ```
-3. Clone this repository:
+2. Clone this repository:
 
    ```bash
    git clone https://github.com/MonkWarrior08/AI_JSONL_Format-Tools.git
@@ -31,7 +29,7 @@ The tool enables users to quickly format prompts into a JSON structure that can 
 ## Usage
 Run the application:
 ```bash
-python gpt4_prompt_template_tool.py
+python main.py
 ```
 - The window will display with default roles [system, user, assistant] prompts. Enter your desired messages in each text box.
 - Click the Add button to append new user or assistant prompts.
