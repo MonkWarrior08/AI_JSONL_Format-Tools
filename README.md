@@ -25,8 +25,8 @@ The tool enables users to quickly format prompts into a JSON structure that can 
 3. Clone this repository:
 
    ```bash
-   git clone https://github.com/MonkWarrior08/Format_Tools.git
-   cd Format_Tools
+   git clone https://github.com/MonkWarrior08/AI_JSONL_Format-Tools.git
+   cd AI_JSONL_Format-Tools
    ```
 ## Usage
 Run the application:
