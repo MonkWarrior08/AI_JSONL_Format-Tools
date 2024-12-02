@@ -1,8 +1,8 @@
 ## Overview
 
-This is a GUI application designed using PyQt5 that helps you construct structured JSON format prompts with alternating roles for use in GPT-4 AI interactions. 
+This is a GUI application designed using PyQt5 that helps you construct structured JSON format prompts with alternating roles for use in GPT-4o AI interactions. 
 
-The tool enables users to quickly format prompts into a JSON structure that can be used for interactions with language models like GPT-4, allowing for a well-defined conversation flow between the system, user, and assistant.
+The tool enables users to quickly format prompts into a JSON structure that can be used for interactions with language models like GPT-4o, allowing for a well-defined conversation flow between the system, user, and assistant.
 
 ## Features
 
@@ -12,8 +12,6 @@ The tool enables users to quickly format prompts into a JSON structure that can 
 - **Copy Functionality**: Copy the formatted JSON data to your clipboard with a simple click for easy integration into your projects.
 
 ## Requirements
-
-- Python 3.x
 - PyQt5
 
 ## Installation
